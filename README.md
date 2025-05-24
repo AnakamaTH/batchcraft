@@ -12,15 +12,6 @@ A retro-style Minecraft launcher written entirely in **Batch script**, inspired 
 -  **AppData Integration** – Stores jars and tools in `%APPDATA%\.batchcraft`
 -  **Embedded aria2** – High-speed jar downloading
 
----
-
-## Installation
-
-1. Download the latest `BatchCraft.exe` from [Releases](#)
-2. Run it once to generate `options.ini`
-3. Launch and enjoy!
-
----
 
 ## Configuration (`options.ini`) (`PILOT, CAN CHANGE`)
 
