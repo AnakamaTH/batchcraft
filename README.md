@@ -25,7 +25,7 @@ A retro-style Minecraft launcher written entirely in **Batch script**, inspired 
 ## Configuration (`options.ini`)
 
 ```ini
-[BetaLauncher Settings]
+[BatchCraft Settings]
 default_version=1.21.1
 username=Steve
 ram=2G
