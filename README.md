@@ -22,7 +22,7 @@ A retro-style Minecraft launcher written entirely in **Batch script**, inspired 
 
 ---
 
-## Configuration (`options.ini`)
+## Configuration (`options.ini`) (`PILOT, CAN CHANGE`)
 
 ```ini
 [BatchCraft Settings]
