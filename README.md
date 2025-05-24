@@ -1,6 +1,7 @@
 BatchCraft Launcher
 
 A retro-style Minecraft launcher **written entirely in Batch script**, inspired by the classic Mojang launcher.
+
 Features include:
 
     Clean ANSI-colored UI with custom menu
